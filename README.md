@@ -2,9 +2,11 @@
 
 ### Nice to meet you！
 
-- 🔭 I'm currently working on **I am currently studying at TJCU.**
+I'm currently working on **I am currently studying at TJCU.**
 
-- 🌱 I'm currently learning **Math and C++**
+I'm currently learning **Math and C++**
+
+I'm a Chinese 音MADer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
