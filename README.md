@@ -2,7 +2,7 @@
 
 ### Nice to meet you！
 
-I'm currently working on **I am currently studying at TJCU.**
+**I am currently studying at TJCU.**
 
 I'm currently learning **Math and C++**
 
